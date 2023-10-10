@@ -1,0 +1,118 @@
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\vebgrid.dll.config
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\vebgrid.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\vebgrid.pdb
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csc.exe
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csc.exe.config
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csc.rsp
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csi.exe
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csi.exe.config
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\csi.rsp
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.AppContext.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Console.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Net.Http.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\vbc.exe
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\vbc.exe.config
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\vbc.rsp
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\obj\Debug\vebgrid.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\obj\Debug\vebgrid.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\obj\Debug\vebgrid.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\obj\Debug\vebgrid.dll
+C:\Users\alexs\OneDrive\Документы\4 курс\veb\vebgrid\vebgrid\obj\Debug\vebgrid.pdb
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\vebgrid.dll.config
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\vebgrid.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\vebgrid.pdb
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csc.exe
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csc.exe.config
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csc.rsp
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csi.exe
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csi.exe.config
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\csi.rsp
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.AppContext.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Console.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Net.Http.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\vbc.exe
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\vbc.exe.config
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\vbc.rsp
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\obj\Debug\vebgrid.csproj.AssemblyReference.cache
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\obj\Debug\vebgrid.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\obj\Debug\vebgrid.csproj.CopyComplete
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\obj\Debug\vebgrid.dll
+C:\Users\alexs\Source\Repos\mokarrrr\VebGridDomashka\vebgrid\obj\Debug\vebgrid.pdb
